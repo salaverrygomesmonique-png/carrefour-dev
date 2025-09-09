@@ -2,6 +2,12 @@
 Link de pagamento para Android
 SDK do Link de Pagamento para Android com PHP
 
+## Tecnologias utilizadas 
+
+Bootstrap core, html, CSS, javascript e PHP
+Yarn
+Postman
+
 ## Principais recursos
 
 * [x] Autenticação no oAuth
