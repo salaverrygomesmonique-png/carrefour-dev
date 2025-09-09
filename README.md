@@ -2,12 +2,14 @@
 Link de pagamento para Android
 SDK do Link de Pagamento para Android com PHP
 
-Principais recursos
-Autenticação no oAuth
-Criação do link de pagamento
-De todos os tipos de produtos
-Com todos os tipos de entrega
-Com recorrência
+## Principais recursos
+
+* [x] Autenticação no oAuth
+* [x] Crianção do link de pagamento
+  * [x] De todos os tipos de produtos
+  * [x] Com todos os tipos de entrega
+  * [x] Com recorrência
+        
 Instalação
 É necessária a permissão de uso da internet no Android Manifest.xml:
 
