@@ -2,7 +2,7 @@
 Link de pagamento para Android
 SDK do Link de Pagamento para Android com PHP
 
-## Documentação no Confluence (Atlassian) https://cimatempo.atlassian.net/wiki/x/AQAX
+## Documentação no Confluence (Atlassian): 
 ## Tecnologias utilizadas 
 
 Bootstrap core, html, CSS, javascript e PHP
